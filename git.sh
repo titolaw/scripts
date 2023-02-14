@@ -1,8 +1,5 @@
 #!/bin/bash
 
-
-#!/bin/bash
-
 # Get the current time in nanoseconds
 current_time=$(date +%s%N)
 
