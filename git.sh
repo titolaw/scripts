@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# Takes a argument, changes to a folder and commits all the changes.
+# Takes an argument, changes to a folder and commits all the changes.
 
 # Get the time in nanoseconds
 current_time=$(date +%s%N)
