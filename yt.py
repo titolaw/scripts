@@ -1,3 +1,4 @@
+#!/usr/bin/python3
 # Downloads youtube videos as mp3 and saves to ~/Music
 
 import sys
